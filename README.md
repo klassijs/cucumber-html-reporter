@@ -25,6 +25,7 @@ Provide a Cucumber JSON report file created from your framework and this module 
 ## Install
 
 ``` bash
+yarn add klassijs-cucumber-html-reporter -D
 npm install klassijs-cucumber-html-reporter --save-dev
 ```
 
